@@ -1,0 +1,3 @@
+com\mf\mongo\Application.class
+com\mf\mongo\Repositories\UsersRepository.class
+com\mf\mongo\services\UserInfoService.class
